@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="tp6p1">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="tp6p2"/>
+	<classpathentry kind="src" path="tp6p3"/>
+	<classpathentry kind="src" path="tp6p4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Mateo/Universidad/OO2/jar tp6/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Mateo/Universidad/OO2/jar tp6/kotlin-stdlib-1.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Mateo/Universidad/OO2/jar tp6/kotlin-stdlib-common-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Mateo/Universidad/OO2/jar tp6/okhttp-4.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Mateo/Universidad/OO2/jar tp6/okio-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Mateo/Universidad/Seminario/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
